@@ -80,10 +80,5 @@ c.drawEllipse(centreX: 163, centreY: 60, width: 80, height: 40)
 
 
 
-//axes
-
-
-
-
 // This code is necessary to see the result in the Assistant Editor at right
 PlaygroundPage.current.liveView = c.imageView
